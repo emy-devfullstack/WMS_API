@@ -10,8 +10,8 @@ A aplicação permite consultar produtos, filtrar produtos ativos e inativos, ca
 
 ## Integrantes
 
-- Emily Kristin Garcia
 - Bruno Batista Xavier
+- Emily Kristin Garcia
 - Maria Eduarda Martins de Souza
 
 ---
